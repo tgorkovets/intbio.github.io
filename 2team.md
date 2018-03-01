@@ -31,5 +31,11 @@ permalink: /team/
 [Curriculum Vitae]({{ "/cv/akg.pdf" | relative_url }}) | E-mail: [gribkova.anna.2013@post.bio.msu.ru](mailto:gribkova.anna.2013@post.bio.msu.ru) 
 </td>
 </tr>
+ <tr>
+<td markdown="span"> <img src="{{ "/assets/FullSizeRender.jpg" | relative_url }}" width="200px" /> </td>
+<td markdown="span"><b>Tatiana K. Gorkovets - PHD student</b> <br> Grigoriy recieved his M.S. in bioengineering from Moscow State University, Russia. She is currently pursuing PHD studies at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
+[Curriculum Vitae]({{ "/cv/Gorkovets_cv.pdf" | relative_url }}) | E-mail: [tgorkovets@gmail.com](mailto:tgorkovets@gmail.com) 
+</td>
+</tr>
 </tbody>
 </table>
